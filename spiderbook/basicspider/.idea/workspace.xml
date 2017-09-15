@@ -25,17 +25,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlDownloader.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HtmlDownloader.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlDownloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="96">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlParser.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HtmlParser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlParser.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -60,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/URLManager.py" />
-        <option value="$PROJECT_DIR$/HtmlDownloader.py" />
         <option value="$PROJECT_DIR$/HtmlParser.py" />
+        <option value="$PROJECT_DIR$/HtmlDownloader.py" />
       </list>
     </option>
   </component>
@@ -382,14 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HtmlParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -397,6 +389,14 @@
           <folding>
             <element signature="e#16#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

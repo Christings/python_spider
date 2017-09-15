@@ -2,7 +2,7 @@
 
 import requests
 
-
+# HTML下载器
 class HtmlDownloader(object):
     def download(self, url):
         if url is None:
