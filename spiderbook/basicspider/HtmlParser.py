@@ -31,7 +31,8 @@ class HtmlParser(object):
         '''
         new_urls = set()
         # 抽取符合要求的a标记
-        links = soup.find_all('a', href=re.compile(r'/view/\d+\.htm'))
+        # links = soup.find_all('a', href=re.compile(r'/item/\d+\.htm'))
+        links = soup.find_all('a', href=re.compile(r'/item/\w'))
         for link in links:
             # 提取href属性
             new_url = link['href']
